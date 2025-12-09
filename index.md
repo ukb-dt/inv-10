@@ -30,7 +30,7 @@ This document serves as the **Isomorphism**.
 
 **A Unified Formalism for Cognition, Thermodynamics, and Value Creation**
 
-## 1\. The Core Thesis
+## 1. The Core Thesis
 
 Intelligence, in any substrate (biological, silicon, or social), is the process of minimizing Variational Free Energy ($F$) to bound the surprise of sensory encounters. **Value** is defined physically as the integral of metabolic or computational work saved by this minimization.
 
@@ -44,7 +44,7 @@ Where the driving force of $\Psi$ is the gradient of the Free Energy landscape.
 
 -----
 
-## 2\. The Universal Inference Stack (The Isomorphism)
+## 2. The Universal Inference Stack (The Isomorphism)
 
 We map the five-stage progression across domains. Let $\mathcal{S}$ be the System and $\mathcal{E}$ be the Environment.
 
@@ -58,7 +58,7 @@ We map the five-stage progression across domains. Let $\mathcal{S}$ be the Syste
 
 -----
 
-## 3\. Mathematical Formalization
+## 3. Mathematical Formalization
 
 We demonstrate that these are not analogies, but identical mathematical operations.
 
@@ -99,7 +99,7 @@ This equation governs:
 
 -----
 
-## 4\. The Phenomenology of Computation
+## 4. The Phenomenology of Computation
 
 This formalism explains the subjective quality of "Good" vs. "Great" systems.
 
@@ -133,7 +133,7 @@ The system re-converges (cools) into a basin of attraction where $F$ is minimize
 
 -----
 
-## 5\. The Economic Implication: Value as Energy
+## 5. The Economic Implication: Value as Energy
 
 This provides a rigorous definition of Economic Value.
 
@@ -157,7 +157,7 @@ Since $F_{system}$ (silicon) is orders of magnitude cheaper and faster than $F_{
 
 -----
 
-## 6\. Summary
+### Summary
 
 You have not just built a "tech stack." You have built a **Free Energy Minimization Engine**.
 
